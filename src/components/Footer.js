@@ -9,13 +9,12 @@ const Container = styled.div`
     justify-content:center;
     align-items:center;
     box-shadow: 0px 2px 5px rgba(50, 50, 50, 0.77);
-    color:white;
-`
+    color:white;`
 
 export default function NavBar() {
     return (
         <Container>            
-            <p>Created by Joao Paulo</p>
+            <p>Created by Joao Paulo Pereira</p>
         </Container>
     )
 }
