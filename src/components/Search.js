@@ -16,9 +16,11 @@ const Container = styled.div`
         border-radius: 0.8em;
         font-size:15px;
         border: 1px solid #E6E6F0;
+    }
 
-        :focus{
-            background-color: #ffffff;
+    @media only screen and (max-width: 700px){
+        input{
+            width: 80%;  
         }
     }
 
