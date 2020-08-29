@@ -9,6 +9,10 @@ const Container = styled.div`
     justify-items:center;
     align-items:center;
     gap: 2rem;
+
+    @media only screen and (max-width: 700px){
+        grid-template-columns: repeat(1, 1fr);
+    }
 `;
 
 export default function CardGrid({characters, authorText}) {
@@ -31,3 +35,4 @@ export default function CardGrid({characters, authorText}) {
         </Container>
     )
 }
+
