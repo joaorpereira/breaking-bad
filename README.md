@@ -24,7 +24,7 @@
 
 - <a href="https://breakingbadapi.com/" target="_blank">Breaking Bad API</a>
 - <a href="https://www.youtube.com/watch?v=YaioUnMw0mo" target="_blank">React App - Breaking Bad API</a>
-- <a href="https://www.treinaweb.com.br/blog/css-aprenda-a-criar-o-efeito-de-flip-cards/" target="_blank">How to make flip cards</a>https://www.youtube.com/watch?v=YaioUnMw0mo
+- <a href="https://www.treinaweb.com.br/blog/css-aprenda-a-criar-o-efeito-de-flip-cards/" target="_blank">How to make flip cards</a>
 
 ## License
 
