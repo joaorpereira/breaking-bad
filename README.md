@@ -2,6 +2,9 @@
 
 > This project was made using **React**, **HTML**, **CSS** and **JavaScript-Vanilla**. Also, I used ***styled-components** to do some of my CSS style, I used axios to get Breaking Bad API and I made a ***mobile responsive*** page. The objective was to understand and improve my skills using these tools.
 
+### Site
+The website has been hosted at netlify: breaking-bad-api-site.netlify.app
+
 ![](breaking-bad.gif)
 
 ### Mobile
