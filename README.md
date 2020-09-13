@@ -13,7 +13,7 @@ The website has been hosted at netlify: https://breaking-bad-api-site.netlify.ap
 
 ## How to Run this Project
 
-- git clone "https://github.com/joaorpereira/breaking-bad.git"
+- git clone https://github.com/joaorpereira/breaking-bad.git
 - npm install
 - npm install styled-components
 - npm install axios
